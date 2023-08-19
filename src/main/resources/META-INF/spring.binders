@@ -1,0 +1,2 @@
+fileMessageBinder:\
+com.mgzk.projectspringcloudstreambinder.binder.FileMessageBinder

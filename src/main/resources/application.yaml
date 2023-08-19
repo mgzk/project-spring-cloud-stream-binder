@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    function:
+      definition: ping
+    stream:
+      bindings:
+        ping-out-0:
+          destination: /tmp/ping.txt
